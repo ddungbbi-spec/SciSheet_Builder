@@ -1,0 +1,7 @@
+libcairo2
+libpango-1.0-0
+libpangocairo-1.0-0
+libpangoft2-1.0-0
+shared-mime-info
+fonts-nanum
+fonts-noto-cjk
